@@ -1,11 +1,8 @@
-kinto-github-token
-==================
+# kinto-github-token
 
 Github Authentication support for Kinto
 
-Usage
------
-
+### Usage
 Add Github Authentication to Kinto API
 
 ```
@@ -24,14 +21,11 @@ multiauth.policy.github.use = kinto_github_token.authentication.GithubAuthentica
   POST http://localhost:888/v1/github/token
   ```
 
-TODO
--------------
+### TODO
 [ ]  load github client_id & client_secret from kinto.ini
 
-Licence
--------
+### Licence
 
-Authors
--------
+### Authors
 
 `kinto-github-token` was written by `Anh Trinh <anh.trinhtrung@gmail.com>`_.
