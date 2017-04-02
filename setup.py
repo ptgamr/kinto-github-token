@@ -9,7 +9,7 @@ setuptools.setup(
     author_email="anh.trinhtrung@gmail.com",
 
     description="Github Authentication support for Kinto",
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
 
     packages=setuptools.find_packages(),
 
