@@ -1,9 +1,9 @@
 import setuptools
 
 setuptools.setup(
-    name="kinto_github_token",
+    name="kinto-github-token",
     version="0.1.0",
-    url="https://github.com/ptgamr/kinto_github_token",
+    url="https://github.com/ptgamr/kinto-github-token",
 
     author="Anh Trinh",
     author_email="anh.trinhtrung@gmail.com",
