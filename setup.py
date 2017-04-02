@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="kinto-github-token",
-    version="0.1.0",
+    version="0.1.1",
     url="https://github.com/ptgamr/kinto-github-token",
 
     author="Anh Trinh",
